@@ -1,0 +1,56 @@
+* Basic Internet Terminology
+*** [[https://marksheet.io/introduction.html][Sections 1-4]]
+* [[http://www.20thingsilearned.com/en-US/home][Commonly Used Terms]]
+* GitHub and Sourcetree [1/9]
+  - [X] Create a Github Account
+  - [ ] [[https://try.github.io/levels/1/challenges/1][GitHub Tutorials]]: Learn Git Branching
+  - [ ] Study [[https://www.atlassian.com/git/tutorials/comparing-workflows][cheat sheet]]
+  - [ ] [[ttps://confluence.atlassian.com/get-started-with-sourcetree/install-sourcetree-847359094.html][Install SourceTree]]
+  - [ ] Create Personal SourceTree Account, linked to Github account.
+  - [ ] Complete [[https://confluence.atlassian.com/get-started-with-sourcetree/get-started-with-sourcetree-847359026.html][SourceTree tutorial]] (Skip Mercurial)
+  - [ ] [[https://docs.google.com/document/d/1NRuVoGSfmwCPDE8r5Qo9QiLjQ0IlTVk3x629QluKtGM/edit?us p=sharing][Sourcetree Starter Guide]]
+  - [-] Create Repositories in SourceTree [1/3]
+    - [X] Create a git repository named: TG-Pre-Work 
+    - [ ] Create branch in repository for writing assignment named: Technical-Writing
+    - [ ] Create branch in repository named: Code-Academy-Exercises
+  - [ ] Share Github Account. 
+  Add academy@techtonicgroup.com as a collaborator by navigating to
+  Settings → Collaborators → and searching for TechtonicAcademy and
+  adding it as a collaborator to your projects in Github.
+* Code Academy HTML/CSS Fundamentals
+  Code-Academy-Exercises Please complete these three classes and
+  exercises to help you gain an understanding of frontend technologies
+  taught during the classroom training.
+*** Learn HTML: Complete the following course [[https://www.codecademy.com/learn/learn-html][(43 activities)]]
+*** Learn CSS: Complete the following course [[https://www.codecademy.com/learn/learn-css][(114 activities)]]
+*** Intro to JavaScript [[https://www.codecademy.com/learn/introduction-to-javascript][149 activities]]
+*** Commit and push every code block in Codecademy [0/2]
+    - [ ] 43 HTML
+    - [ ] 114 CSS
+    - [ ] 149 JavaScript
+* Technical Writing Assignment
+***  Summarize your answer to "How the Web Functions" in a PDF of
+    1-3(max) pages topics below:
+    - When we hit https://www.techtonicgroup.com/ what happens? Don’t
+      focus too much on architecture (Monolithic, SOA, Microservices,
+      etc.). Try to focus more on how the web functions.
+    - From start to finish, how does that data reach you to be rendered
+      in the browser?
+    - What code is rendered in the browser
+    - What is the server-side code's main function?
+    - How many instances of the client-side assets (HTML, CSS, JS,
+      Images, etc.) are created?
+    - How many instances of the server side code are avialable at any given time?
+    - What is runtime?
+    - How many instances of the databases connected to the server applicatoin are created?
+***  Load the technical writing assignment into Github Technical Writing branch
+* Contact Techtonic
+  Send an demail to academy@techtonicgroup.com informing that pre-work
+  is done and provide name of Github account.
+* Additional Resources
+  ● https://developer.mozilla.org/en-US/docs/Web/Tutorials
+  ● https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/ (sign up for an account)
+  ● https://eloquentjavascript.net/
+
+  
+  
