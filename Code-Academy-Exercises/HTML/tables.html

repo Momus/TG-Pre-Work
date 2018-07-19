@@ -19,7 +19,9 @@
       <th>Company Name</th>
       <th>Number of Items to Ship</th>
       <th>Next Action</th>
-      <tr></tr>
+      <thead>
+        <tr></tr>
+      </thead>
       <tbody>
         <tr>
           <td colspan="2">Adam's Greenworks</td>
