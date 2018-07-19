@@ -24,9 +24,9 @@
 *** Learn HTML: Complete the following course [[https://www.codecademy.com/learn/learn-html][(43 activities)]]
 *** Learn CSS: Complete the following course [[https://www.codecademy.com/learn/learn-css][(114 activities)]]
 *** Intro to JavaScript [[https://www.codecademy.com/learn/introduction-to-javascript][149 activities]]
-*** Commit and push every code block in Codecademy [0/2]
+*** Commit and push every code block in Codecademy [1/3]
     Branch: Code-Academy-Exercises
-    - [ ] 43 HTML
+    - [X] 43 HTML
     - [ ] 114 CSS
     - [ ] 149 JavaScript
 * Technical Writing Assignment
