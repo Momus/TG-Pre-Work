@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background-color: white;
   font-family: 'Raleway', sans-serif;
@@ -44,6 +49,8 @@ body {
   text-align: center;
   width: 400px;
   margin: 0 auto;
+  height: 100px;
+  overflow: scroll;
 }
 
 h1 {
@@ -76,6 +83,10 @@ p {
   line-height: 48px;
   padding: 10px 20px;
   margin-top: 60px;
+  min-width: 200px;
+  max-width: 800px;
+  min-height: 200px;
+  max-height: 300px;
 }
 
 .pull-quote {
@@ -114,4 +125,8 @@ p {
   background: white;
   border: 1px solid red;
   color: red;
+}
+
+.donate {
+  visibility: hidden;
 }
