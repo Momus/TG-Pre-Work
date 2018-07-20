@@ -12,12 +12,16 @@ body {
 h1 {
     color: white;
     font-size: 28px;
+    text-transform: uppercase;
+    text-align: center;
 }
 
 h2 {
     font-size: 24px;
     font-weight: 700;
     line-height: 2.5;
+    word-spacing: 0.05em;
+    letter-spacing: 02em;
 }
 
 h1, h2 {
