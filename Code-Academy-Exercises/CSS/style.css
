@@ -6,6 +6,9 @@ body {
 header {
   background-color: #466995;
   border-bottom: 1px solid #466995;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
 }
 
 ul {
@@ -71,19 +74,23 @@ p {
 footer {
   background-color: #DBE9EE;
   text-align: center;
+  height: 100px;
 }
 
 .welcome {
-  background-color: #DBE9EE;
-  box-sizing: border-box;
-  padding: 40px;
-  text-align: center;
-  width: 100%;
+    background-color: #DBE9EE;
+    box-sizing: border-box;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    top: 200px;
 }
 
 .question {
     text-align: center;
-    position: static;
+    position: relative;
+    top: 40px;
 }
 
 .answer {
