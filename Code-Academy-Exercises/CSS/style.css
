@@ -18,6 +18,7 @@ h1 {
   font-size: 2em;
   padding-top: 100px;
   width: 100%;
+  text-align: center;
 }
 
 h2 {
@@ -62,6 +63,9 @@ p {
   position: relative;
   top: 80%;
   width: 60%;
+  background-color: white;
+  color: black;
+  opacity: 0.75;
 }
 
 .content {
@@ -69,10 +73,10 @@ p {
 }
 
 .image {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
-  background-size: cover;
-  background-position: center;
-  height: 300px;
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/soccer.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
 }
 
 .writer-img {
