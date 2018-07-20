@@ -83,6 +83,7 @@ a.home {
     padding: 100px 0;
     margin-top: 77px;
     text-align: center;
+ 
 }
 
 .banner p {
@@ -91,6 +92,7 @@ a.home {
     padding: 10px;
     color: #ffffff;
     font-weight: bold;
+    line-height: 1.4;
 }
 
 /* Editorial Sections */
@@ -132,10 +134,21 @@ a.home {
 }
 
 /* Add styles for the Garamond font here */
+.garamond .sample .text {
+    font: garamond, serif;
+}
 
 /* Add styles for the Helvetica font here */
+.helvetica .sample .text{
+    font: Helvetica, sans-serif;
+}
+
 
 /* Add styles for the Space Mono font here */
+.space .sample .text {
+    
+}
+
 
 .bold {
     font-weight: 900;
