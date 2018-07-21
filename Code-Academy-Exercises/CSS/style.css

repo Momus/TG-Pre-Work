@@ -7,6 +7,9 @@
 /*  grid-template:  40% 50% 50px / 100px 50% 200px;
   grid-template-rows: 40% 50% 50px;
   grid-template-columns: 100px 50% 200px; */
+  grid-gap: 20px 5px;
+  /* grid-row-gap: 20px;
+  grid-column-gap: 5px; */
 
 }
 
