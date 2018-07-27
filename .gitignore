@@ -1,0 +1,5 @@
+## LaTeX auxullary files
+*.aux
+*.dvi
+*.log
+*.out

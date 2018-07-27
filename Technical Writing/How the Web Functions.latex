@@ -1,0 +1,32 @@
+\documentclass{article}
+\usepackage{hyperref}
+\title{How the Web Functions}
+\author{Dmitri Brengauz}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+  This essay gives a brief introduction to what goes on ``behind the
+  scenes'' when a user requests a web page in a browser.
+  Specifically, it answes the following questions:
+  \begin{enumerate}
+  \item \label{itm:landing} When we hit \texttt{https://www.techtonicgroup.com/} what happens? Don’t
+    focus too much on architecture (Monolithic, SOA, Microservices,
+    etc.). Try to focus more on how the web functions.
+  \item \label{itm: render} From start to finish, how does that data reach you to be rendered
+    in the browser?
+  \item What code is rendered in the browser
+  \item What is the server-side code's main function?
+  \item How many instances of the client-side assets (HTML, CSS, JS,
+    Images, etc.) are created?
+  \item How many instances of the server side code are avialable at any given time?
+  \item What is runtime?
+  \item How many instances of the databases connected to the server
+    applicatoin are created?
+  \end{enumerate}
+\end{abstract}
+
+This is my docuent, it should have \ref{itm:landing} references to the questions in the abstract.
+
+
+\end{document}
