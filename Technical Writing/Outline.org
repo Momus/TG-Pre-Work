@@ -1,10 +1,13 @@
-***  Summarize your answer to "How the Web Functions" in a PDF of
-    1-3(max) pages topics below:
+*  Summarize your answer to "How the Web Functions" in a PDF of 1-3(max) pages topics below:
     1. When we hit https://www.techtonicgroup.com/ what happens? Don’t
       focus too much on architecture (Monolithic, SOA, Microservices,
       etc.). Try to focus more on how the web functions.
+       - HTTP: GET request,
+       - intial document read, load anchors
+
     2. From start to finish, how does that data reach you to be rendered
       in the browser?
+      - DNS/TCP/IP
     3. What code is rendered in the browser
     4. What is the server-side code's main function?
     5. How many instances of the client-side assets (HTML, CSS, JS,
@@ -12,3 +15,29 @@
     6. How many instances of the server side code are avialable at any given time?
     7. What is runtime?
     8. How many instances of the databases connected to the server applicatoin are created?
+
+* How a wish becomes a web page.
+
+*** The request
+    With all the magic surrounding the World Wide Web, it's easy to
+    lose sight of what it is and was designed to be: a document
+    retrieval system.  When users wants to access $SITE, they need acess
+    to a document.  Bedind the scenes, the web browser, the Internet,
+    and the server are meant to work seamlessly to retrieve and
+    compose that document for viewing without the user having to worry
+    about how any of that is done.
+
+    Just as users only need to know to that to get a document they
+    have to ask a web browsers, web browsers are part of a network
+    stack that dosen't require them to know how to retrieve a docuent
+    with nothing more than a URL.  The browser sits on the top layer
+    of the network stack, the Application Layer, and it only to ask
+    the layer below, the Tranport Layer to fullfil its request.
+
+    - First, ask to open a connection: (TCP: URL protocol==port)
+    - then fetch document GET request.
+***** 
+
+
+
+
