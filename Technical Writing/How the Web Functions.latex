@@ -141,18 +141,15 @@ A major part of server-side scripting is interacting with a database
 to retrieve or edit structured data. The term ``database'' refers to a
 set of physical files, while an ``instance'' in an Oracle environment
 refers to the combination of software and memory used to access that
-data. In Microsoft SQL Server an instance is a specific installation of SQL Server.
-Multiple SQL Server instances are used to manage server resources as
-each instance is allocated a specific amount of memory and CPU
-resources.
+data. In Microsoft SQL Server an instance is a specific installation
+of SQL Server.  Multiple SQL Server instances are used to manage
+server resources as each instance is allocated a specific amount of
+memory and CPU resources.
 
 Each database instance can handle multiple web server connections,
 with one connection typically being necessary per request, although
 high-traffic databases use a technique to accommodate multiple
 requests per connection known as pooling.
-
-
-
 
 
 
